@@ -1,0 +1,5 @@
+{
+  "name": "Yui.exe's Hideout",
+  "description": "A retro-style personal homepage for a creator named Yui.exe, reminiscent of early 2000s Japanese web design. It features a profile, a gallery of works, and a blog, all managed via a simple data structure.",
+  "requestFramePermissions": []
+}
